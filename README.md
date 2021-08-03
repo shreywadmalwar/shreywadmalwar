@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @shreywadmalwar
-- 👀 I’m interested in python. 
+# Hi, i am shreyash Wadmalwar!
+
+Codes = ['Python', 'Django', 'Bootstrap', 'MYSQL', 'REST API', 'R Programming']
+
 - 🌱 I’m currently learning computer engineering. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :- sdwadmalwar@gmail.com
